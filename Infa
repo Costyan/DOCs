@@ -1,3 +1,11 @@
 composer self-update --rollback // to return to version 825b4b9c63a29c586d005de8dbbcfdfeb86bbf6f - откат Composerа до старой версии.
 d:\xampp\htdocs\Work\News-line\common\config\main-local.php - настроечный файл yii-проекта
 yii migrate - миграция системной базы yii-проекта
+
+Создание первого commitа
+echo # DOCs >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Costyan/DOCs.git
+git push -u origin master
