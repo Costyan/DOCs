@@ -9,3 +9,12 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Costyan/DOCs.git
 git push -u origin master
+
+    public function actionViewNews($idNews)
+    {
+        $query= News::find();
+        $viewNews=$query
+                ->where(['IdNews'=>$idNews])
+                ->all();
+        return $this->render('viewNews', ['viewNews' => $viewNews[0]]);
+    }
