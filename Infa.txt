@@ -23,3 +23,4 @@ https://yiiframework.com.ua/ru/doc/guide/2/structure-views/ - по Yii2
 
 http://eax.me/git-commands/ - по Gitу
 http://www.calculate-linux.org/main/ru/git - по Gitу
+https://git-scm.com/book/ru/v1/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-Git
