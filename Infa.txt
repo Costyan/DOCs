@@ -18,3 +18,5 @@ git push -u origin master
                 ->all();
         return $this->render('viewNews', ['viewNews' => $viewNews[0]]);
     }
+
+https://yiiframework.com.ua/ru/doc/guide/2/structure-views/
