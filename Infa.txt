@@ -19,4 +19,7 @@ git push -u origin master
         return $this->render('viewNews', ['viewNews' => $viewNews[0]]);
     }
 
-https://yiiframework.com.ua/ru/doc/guide/2/structure-views/
+https://yiiframework.com.ua/ru/doc/guide/2/structure-views/ - по Yii2
+
+http://eax.me/git-commands/ - по Gitу
+http://www.calculate-linux.org/main/ru/git - по Gitу
